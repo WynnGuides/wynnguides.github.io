@@ -1,6 +1,7 @@
 ---
 title: Home
-layout: home
+layout: default
+nav_order: 1
 ---
 
 Hello and welcome to Wynnguides, your go-to resource for comprehensive guides on the renowned Minecraft server, Wynncraft. Whether you're a seasoned adventurer or a newcomer to the Wynncraft realm, our collection of guides is designed to enhance your gaming experience and help you navigate the vast world of Wynncraft.
