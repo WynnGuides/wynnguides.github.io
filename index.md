@@ -3,33 +3,26 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Hello and welcome to Wynnguides, your go-to resource for comprehensive guides on the renowned Minecraft server, Wynncraft. Whether you're a seasoned adventurer or a newcomer to the Wynncraft realm, our collection of guides is designed to enhance your gaming experience and help you navigate the vast world of Wynncraft.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+# Explore the Wynnguides Advantage:
 
-More specifically, the created site:
+**Detailed Information:** Our guides provide detailed insights, tips, and strategies to help you conquer challenges, level up efficiently, and master the intricacies of Wynncraft.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+**Community-Driven:** Wynnguides thrives on the contributions of the Wynncraft community. Join us in building a comprehensive repository of knowledge to assist players on their epic journeys.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+# How to Contribute:
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Contribute to Wynnguides and be an integral part of our vibrant community. Here's how:
 
-To get started with creating a site, simply:
+1. **Join Our Discord Server:** Connect with us on Discord and navigate to the Wynnguides forum channel. Share your guide, ideas, or discuss potential contributions with the community.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+2. **Forum Contribution:** Post your guide directly in the Wynnguides forum channel. Engage with fellow enthusiasts and refine your content through community feedback.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+3. **Community Review:** Once your guide is posted, our community will review it, offering insights and suggestions for improvement.
 
-----
+4. Sit Back, Relax, and Watch Your Guide Go Live:** Once approved, our team will take care of the technicalities. Your guide will be seamlessly integrated into the Wynnguides website, allowing players across the Wynncraft universe to benefit from your expertise.
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+By contributing to Wynnguides, you become an essential part of a collaborative effort to enhance the gaming experience for all. Join us on this exciting journey, and let's build a repository of knowledge that propels Wynncraft enthusiasts to new heights!
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Thank you for being a part of Wynnguides, where the collective knowledge of the community enriches the gaming experience for everyone!
